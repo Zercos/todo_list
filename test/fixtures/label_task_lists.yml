@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+label_taks_list:
+  label: label1
+  task_list: taskl1
+
+# two:
+#   label: two
+#   task_list: two

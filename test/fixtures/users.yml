@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+mike:
+  email: "mail@mail.com"
+  auth_token: 'a'
+  address: 'des'
+
+# two:
+#   email: MyString
+#   auth_token: MyString
+#   address: MyString

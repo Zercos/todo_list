@@ -1,0 +1,12 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+task1:
+  name: 'task'
+  status: 'status'
+  task_list: taskl1
+
+# two:
+#   name: MyString
+#   description: MyText
+#   status: MyString
+#   task_list: two

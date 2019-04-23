@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+taskl1:
+  name: 'task1'
+  status: 'on'
+  description: ''
+  user: mike
+
+# two:
+#   name: MyString
+#   status: MyString
+#   description: MyText
+#   user: two
